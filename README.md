@@ -1,8 +1,3 @@
-# Corevyn-community
-Corevyn Community is the central hub for developers, enthusiasts, and contributors to connect, collaborate, and grow together. This repository is dedicated to fostering a thriving open-source community around Corevyn's projects and ideas.
-
-# Corevyn Community  
-
 Welcome to the **Corevyn Community**! 🚀  
 This is the central hub for developers, enthusiasts, and contributors to connect, collaborate, and grow together around Corevyn's vision of innovation and impact.  
 
