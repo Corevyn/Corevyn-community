@@ -28,7 +28,7 @@ Corevyn Community is dedicated to fostering a thriving open-source ecosystem. Wh
    - Check out our projects and find one that excites you.  
 
 2. **Join the Discussion**  
-   - Head over to the [Discussions](https://github.com/corevyn/community/discussions) tab and introduce yourself!  
+   - Head over to the [Discussions](https://github.com/corevyn/community/DISCUSSIONS) tab and introduce yourself!  
 
 3. **Contribute**  
    - Follow our [Contribution Guidelines](CONTRIBUTING.md) to start making an impact.  
